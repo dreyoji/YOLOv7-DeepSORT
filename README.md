@@ -12,3 +12,7 @@ The main objectives were to analyze the impact of the optimization algorithm on 
 - Ensured a fair comparison by using the same dataset for each model and evaluating their performance separately.
 - Created confusion matrices for each model to compare accuracy, precision, and recall.
 - Visualized the training progress of each model using time series graphs.
+
+Reference/s:
+- https://github.com/WongKinYiu/yolov7
+- https://github.com/deshwalmahesh/yolov7-deepsort-tracking
